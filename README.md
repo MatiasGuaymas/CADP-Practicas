@@ -1,9 +1,7 @@
-<h1 align="center"> CADP </h1>
-
-### [**Modelos de parciales**](https://github.com/MatiasGuaymas/CADP-Practicas/tree/main/Parciales)
+### **Modelos de parciales**[*](https://github.com/MatiasGuaymas/CADP-Practicas/tree/main/Parciales)
 
 ## Prácticas
-### [**Prácticas PDF**](https://github.com/MatiasGuaymas/CADP-Practicas/tree/main/Practicas%20PDF)
+### **Prácticas PDF**[*](https://github.com/MatiasGuaymas/CADP-Practicas/tree/main/Practicas%20PDF)
 
 * [**Práctica 0**](https://github.com/MatiasGuaymas/CADP-Practicas/tree/main/Resoluciones/0)
 * [**Práctica 1-1**](https://github.com/MatiasGuaymas/CADP-Practicas/tree/main/Resoluciones/1-1)
