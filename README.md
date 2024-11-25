@@ -1,6 +1,7 @@
 <h1 align="center"> Conceptos de Algoritmos, Datos y Programas </h1>
 
-### [**Modelos de parciales**](https://github.com/MatiasGuaymas/CADP-Practicas/tree/main/Parciales)
+> [!WARNING]
+> Las soluciones, explicaciones o guías compartidas en este repositorio son propuestas personales y no representan en ningún momento las opiniones oficiales, resoluciones ni contenidos aprobados por la cátedra de la materia.
 
 ## Prácticas
 ### **Prácticas PDF** [*](https://github.com/MatiasGuaymas/CADP-Practicas/tree/main/Practicas%20PDF)
